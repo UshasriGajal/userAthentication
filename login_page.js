@@ -62,7 +62,7 @@ for(var i=1;i<=Object.keys(email).length;i++){
                 sessionStorage.setItem("user","usha")
                 count++
                 alert("Your Valid")
-                window.location.href="login_page2.html"
+                window.location.href="index2.html"
             // }
         }
         // if(window.location.href!="file:///D:/programs/frontend/login_page2.html"){
